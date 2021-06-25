@@ -3,6 +3,8 @@
 ## Introduction
 This repo contains the Pytorch [1] implementation of Adversarial Graph Contrastive Learning (AD-GCL) principle instantiated with learnable edge dropping augmentation.
 The paper is available on [arxiv](https://arxiv.org/abs/2106.05819).
+<img src="https://raw.githubusercontent.com/susheels/adgcl/main/figures/adgcl_pipeline.png"/>
+
 
 ## Requirements and Environment Setup
 Code developed and tested in Python 3.8.8 using PyTorch 1.8. Please refer to their official websites for installation and setup. 
