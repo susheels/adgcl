@@ -1,8 +1,8 @@
-# ADGCL : Adversarial Graph Augmentation to Improve Graph Contrastive Learning
+# [NeurIPS 2021] ADGCL : Adversarial Graph Augmentation to Improve Graph Contrastive Learning | [Paper](https://openreview.net/forum?id=ioyq7NsR1KJ) | [Talk](https://youtu.be/Vidzb2IFxnI) | [Poster](https://raw.githubusercontent.com/susheels/adgcl/main/figures/ad_gcl_poster_neurips.pdf)
 
 ## Introduction
 This repo contains the Pytorch [1] implementation of Adversarial Graph Contrastive Learning (AD-GCL) principle instantiated with learnable edge dropping augmentation.
-The paper is available on [arxiv](https://arxiv.org/abs/2106.05819).
+The paper published at NeurIPS 2021 and is available on [openreview](https://openreview.net/forum?id=ioyq7NsR1KJ) and [arxiv](https://arxiv.org/abs/2106.05819) and [NeurIPS Proceedings](https://papers.nips.cc/paper/2021/hash/854f1fb6f65734d9e49f708d6cd84ad6-Abstract.html).
 <img src="https://raw.githubusercontent.com/susheels/adgcl/main/figures/adgcl_pipeline.png"/>
 
 
@@ -186,7 +186,7 @@ Please cite our paper if you use this code in your own work.
 @article{suresh2021adversarial,
   title={Adversarial Graph Augmentation to Improve Graph Contrastive Learning},
   author={Suresh, Susheel and Li, Pan and Hao, Cong and Neville, Jennifer},
-  journal={arXiv preprint arXiv:2106.05819},
+  journal={NeurIPS},
   year={2021}
 }
 ```
